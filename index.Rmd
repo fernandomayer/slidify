@@ -28,7 +28,17 @@ Lista
 * Item 1
 * Item 2
     - Sub-item 1
-    - Sub-item 2  
+    - Sub-item 2
+
+---
+
+## Slide 4
+
+Um bloco com código do **R**
+
+```{r}
+rnorm(10)
+```  
 
 
 
