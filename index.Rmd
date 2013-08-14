@@ -10,11 +10,25 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 ---
 
+## Slide 1
+
+Como fazer
+
 --- .class #id 
 
 ## Slide 2
 
 Teste de texto
+
+---
+
+## Slide 3
+
+Lista
+* Item 1
+* Item 2
+    - Sub-item 1
+    - Sub-item 2  
 
 
 
