@@ -18,11 +18,11 @@ Como fazer
 
 ## Slide 2
 
-*** =left
+*** left
 
 Teste de texto
 
-*** =right
+*** right
 
 Teste com texto
 
