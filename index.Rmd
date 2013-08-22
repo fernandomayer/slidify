@@ -14,11 +14,17 @@ mode        : selfcontained # {standalone, draft}
 
 Como fazer
 
---- .class #id 
+--- &twocol
 
 ## Slide 2
 
+*** =left
+
 Teste de texto
+
+*** =right
+
+Teste com texto
 
 ---
 
