@@ -10,6 +10,10 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 ---
 
+<script type = 'text/javascript'>
+$('p:has(img.build)').addClass('build')
+</script>
+
 ## Slide 1
 
 Como fazer
@@ -26,6 +30,8 @@ Teste de texto
 *** =right
 
 Teste com texto
+
+.build Aqui aparece mais um texto!
 
 ---
 
